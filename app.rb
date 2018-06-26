@@ -1,3 +1,4 @@
+require './config'
 class App < Sinatra::Base
 
   get '/' do
